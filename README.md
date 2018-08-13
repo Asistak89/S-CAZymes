@@ -1,5 +1,5 @@
 # S-CAZymes
-A simple web-page for easily search carbohydrate active enzymes (CAZymes).
+A simple web-page to easily search carbohydrate active enzymes (CAZymes).
 1. S-CAZy is a simple website to search CAZymes efficiently. In this study we report a simple but efficient webpage called S-CAZy for finding the classification of an CAZyme among the CAZy enzyme classes. 
 
 2. We have classified the plant cell wall component degrading CAZymes into cellulose, hemicellulose, pectin, lignin, starch and inulin degrading CAZymes respectively.
